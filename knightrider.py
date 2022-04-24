@@ -1,2 +1,2 @@
 from startPlaylist import startPlaylist
-startPlaylist("E:\MI Box\Knight Rider")
+startPlaylist("Z:\Knight Rider")
