@@ -1,4 +1,4 @@
-from focusVLC import closeVLC
+from .focusVLC import closeVLC
 import time
 import os
 import subprocess
